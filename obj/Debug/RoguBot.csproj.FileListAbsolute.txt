@@ -1,0 +1,38 @@
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Bot Application1.dll.config
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Bot Application1.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Bot Application1.pdb
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Autofac.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Chronic.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.Bot.Builder.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.Bot.Connector.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Newtonsoft.Json.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.Net.Http.Formatting.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.Web.Http.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.Web.Http.WebHost.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Autofac.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.Bot.Builder.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.Bot.Connector.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\Newtonsoft.Json.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.Net.Http.Formatting.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.Web.Http.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\System.Web.Http.WebHost.xml
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\obj\Debug\Bot Application1.dll
+c:\users\кирилл\documents\visual studio 2015\Projects\RoguBot\RoguBot\obj\Debug\Bot Application1.pdb
